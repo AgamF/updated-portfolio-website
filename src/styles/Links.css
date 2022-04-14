@@ -1,0 +1,32 @@
+.links-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.links-wrapper img {
+  margin: 20px;
+}
+
+.link-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+img {
+  transition: all 0.5s;
+}
+
+img:hover {
+  transform: scale(1.15);
+  cursor: pointer;
+}
+
+p {
+  color: white;
+  font-weight: 600;
+}

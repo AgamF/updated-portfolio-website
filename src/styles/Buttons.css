@@ -1,0 +1,29 @@
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.button-container button {
+  background: none;
+  margin: 10px;
+  border: 2px solid white;
+  padding: 12px;
+  font-weight: 500;
+  border-radius: 10px;
+  color: white;
+  font-size: 15px;
+  font-family: 'Hack';
+  transition: all 0.5s;
+}
+
+.button-container button:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+#home {
+  background: rgb(19, 164, 135);
+}

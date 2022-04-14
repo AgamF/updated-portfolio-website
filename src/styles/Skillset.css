@@ -1,0 +1,35 @@
+.skillset div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  /* width: 900px; */
+}
+
+.skillset div img {
+  margin: 20px;
+  width: 65px;
+  height: 65px;
+}
+
+#css {
+  width: 49px;
+}
+
+#node {
+  width: 100px;
+}
+
+#python {
+  width: 75px;
+  height: 75px;
+}
+
+#react {
+  width: 80px;
+}
+
+#go {
+  width: 100px;
+  height: 85px;
+}
