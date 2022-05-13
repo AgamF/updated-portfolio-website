@@ -68,9 +68,9 @@ const Skillset = ({ state }) => {
       Docker, Postman, Bcrypt, Knex, Heroku, Github pages, Netlify, Next.js etc. <br/>
       Not long before I finished the full-stack web development course, <br/> 
       I stumbled onto CS50’s introduction to computer science. <br/><br/><br/>
-      I took the course, and learned about various concepts and terminologies behind computer science, <br/> 
-      programming, and computers in general. Some of the concepts i learned <br/> 
-      were the binary system, the decimal system, hexa-decimal, <br/> 
+      I took the course, and learned about various concepts and terminologies behind <br/> 
+      computer science, programming, and computers in general. Some of the concepts <br/> 
+      i learned were the binary system, the decimal system, hexa-decimal, <br/> 
       Unicode, ASCII, the memory heap, pointers, memory addresses, input & output, <br/> 
       Recursion, Algorithms (such as binary search, merge sort, bubble sort etc.), <br/> 
       Data structures (such as arrays, objects, hash maps, binary trees etc.), <br/> 
