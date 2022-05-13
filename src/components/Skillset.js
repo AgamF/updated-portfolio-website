@@ -64,8 +64,8 @@ const Skillset = ({ state }) => {
       I also excel at countless additional technologies <br/> 
       used in the web development field such as: <br/> 
       Bootstrap, Jquery, npm, Git, React.js, Redux, Node.js, <br/> 
-      Express.js, EJS, Flask, Django, SQLite3, PostgreSQL, <br/> 
-      Docker, Postman, Bcrypt, Knex, Heroku, Github pages, Netlify, Next.js etc. <br/>
+      Express.js, EJS, Flask, Django, SQLite3, PostgreSQL, Docker, <br/> 
+      Postman, Bcrypt, Knex, Heroku, Github pages, Netlify, Next.js etc. <br/>
       Not long before I finished the full-stack web development course, <br/> 
       I stumbled onto CS50’s introduction to computer science. <br/><br/><br/>
       I took the course, and learned about various concepts and terminologies behind <br/> 
@@ -100,7 +100,9 @@ const Skillset = ({ state }) => {
       a student’s average score, determined by his marks, as well <br/>
       as a program that serves as a calculator. I started learning <br/> 
       TypeScript a few weeks after Go, and my developer experience <br/> 
-      has been greater than ever. TypeScript has great integrity <br/> 
+      has been greater than ever. <br/><br/><br/>
+      
+      TypeScript has great integrity <br/> 
       as a typed javascript superset. It provides so much more <br/> 
       functionality and features such as custom types, generics, <br/>
       interfaces, subclasses, static type checking and many more. <br/>
