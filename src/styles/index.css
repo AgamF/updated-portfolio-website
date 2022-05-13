@@ -27,13 +27,13 @@ body {
 
 h1 {
   color: white;
-  font-family: 'JetBrains Mono';
+  font-family: 'JetBrains Mono', monospace;
   text-align: center;
 }
 
 #title {
   color: white;
-  font-family: 'JetBrains Mono';
+  font-family: 'JetBrains Mono', monospace;
   text-align: center;
   font-size: 80px;
   margin-top: 150px;
