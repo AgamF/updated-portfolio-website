@@ -78,8 +78,8 @@ const Skillset = ({ state }) => {
 
       During the course, I learned the C language, a statically typed, <br/> 
       low level compiled programming language, <br/> 
-      that interacts greatly with hardware and embedded systems, <br/> 
-      and is extremely fast. Afterwards, I dabbled in Python and SQL, through web-programming. <br/> 
+      that interacts greatly with hardware and embedded systems, and is <br/> 
+      extremely fast. Afterwards, I dabbled in Python and SQL, through web-programming. <br/> 
       I learned the basics & advanced paradigms of Python and its syntax, <br/> 
       solved many Python challenges online and <br/> 
       later created a web-application using the popular Python web-development framework Flask, <br/> 
