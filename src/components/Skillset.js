@@ -60,21 +60,21 @@ const Skillset = ({ state }) => {
       urls, virtual machines, cloud computing, encryption/decryption, <br/> 
       network traffic, cyber attacks, front-end/back-end, <br/> 
       DOM, promises, async/await, API’s, RESTful API’s, <br/> 
-      content types, CORS, requests & responses, status codes and many more. <br/>
+      content types, CORS, requests & responses, status codes and many more. <br/><br/><br/>
       I also excel at countless additional technologies <br/> 
       used in the web development field such as: <br/> 
       Bootstrap, Jquery, npm, Git, React.js, Redux, Node.js, <br/> 
       Express.js, EJS, Flask, Django, SQLite3, PostgreSQL, <br/> 
       Docker, Postman, Bcrypt, Knex, Heroku, Github pages, Netlify, Next.js etc. <br/>
       Not long before I finished the full-stack web development course, <br/> 
-      I stumbled onto CS50’s introduction to computer science. <br/>
+      I stumbled onto CS50’s introduction to computer science. <br/><br/><br/>
       I took the course, and learned about various concepts and terminologies behind computer science, <br/> 
       programming, and computers in general. Some of the concepts i learned <br/> 
       were the binary system, the decimal system, hexa-decimal, <br/> 
       Unicode, ASCII, the memory heap, pointers, memory addresses, input & output, <br/> 
       Recursion, Algorithms (such as binary search, merge sort, bubble sort etc.), <br/> 
       Data structures (such as arrays, objects, hash maps, binary trees etc.), <br/> 
-      Big O notation, time complexity, space complexity and much more. <br/>
+      Big O notation, time complexity, space complexity and much more. <br/><br/><br/>
 
       During the course, I learned the C language, a statically typed, <br/> 
       low level compiled programming language, <br/> 
