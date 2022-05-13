@@ -50,8 +50,8 @@ const Skillset = ({ state }) => {
         <img alt='' src={gitbash}></img>
       </div>
       <p style={paragraphStyles}>
-      I excel at 7 different programming languages <br/>
-      which are C, C++, Python, JavaScript, Go, TypeScript and SQL, <br/> 
+      I excel at 7 different programming languages which <br/>
+      are C, C++, Python, JavaScript, Go, TypeScript and SQL, <br/> 
       As well as 2 coding languages, which are HTML & CSS. <br/>
       During my full-stack web development course, <br/>
       i learnt about many core principles of the internet and the web, <br/>
