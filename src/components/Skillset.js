@@ -59,8 +59,8 @@ const Skillset = ({ state }) => {
       server-client relationship, TCP/IP protocol, domains, subdomains, <br/> 
       urls, virtual machines, cloud computing, encryption/decryption, <br/> 
       network traffic, cyber attacks, front-end/back-end, <br/> 
-      DOM, promises, async/await, API’s, RESTful API’s, <br/> 
-      content types, CORS, requests & responses, status codes and many more. <br/><br/><br/>
+      DOM, promises, async/await, API’s, RESTful API’s, content-, <br/> 
+      types, CORS, requests & responses, status codes and many more. <br/><br/><br/>
       I also excel at countless additional technologies <br/> 
       used in the web development field such as: <br/> 
       Bootstrap, Jquery, npm, Git, React.js, Redux, Node.js, <br/> 
