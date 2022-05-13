@@ -81,29 +81,29 @@ const Skillset = ({ state }) => {
       that interacts greatly with hardware and embedded systems, and is <br/> 
       extremely fast. Afterwards, I dabbled in Python and SQL, through web-programming. <br/> 
       I learned the basics & advanced paradigms of Python and its syntax, <br/> 
-      solved many Python challenges online and <br/> 
-      later created a web-application using the popular Python web-development framework Flask, <br/> 
-      and the serverless database service, SQLite3. <br/>
+      solved many Python challenges online and later created a web- <br/> 
+      application using the popular Python web-development framework Flask, <br/> 
+      alongside the serverless database service, SQLite3. <br/><br/><br/>
+        
       Important to mention that through learning web programming via CS50, <br/> 
       I was able to expand on new concepts about web development <br/> 
-      such as scalability and maintainability, security and availability. <br/>
-      Already past CS50’s introduction to computer science, <br/> 
-      I kept looking for more material to study, <br/> 
-      more programming languages/technologies and from there <br/> 
-      I stumbled on C++, C’s object oriented superset. <br/> 
-      I took it on myself to learn the language. <br/>
-      A few weeks later, I discovered the GO language <br/> 
-      (or Golang), a more modern replica of C, <br/> 
-      which has extremely fast compile times, <br/> 
-      and is mainly used for back-end development. <br/> 
-      While learning Go, I wrote a program to calculate a student’s average score, <br/> 
-      determined by his marks, as well as a program that serves as a calculator. <br/>
-      I started learning TypeScript a few weeks after Go, <br/> 
-      and my developer experience has been greater than ever. <br/> 
-      TypeScript has great integrity as a typed javascript superset. <br/> 
-      It provides so much more functionality and features <br/> 
-      such as custom types, interfaces, generics, subclasses, <br/>
-      static type checking and many more. <br/>
+      such as scalability and maintainability, security and availability. <br/><br/><br/>
+        
+      Already past CS50’s introduction to computer science, I- <br/> 
+      kept looking for more material to study, more programming <br/> 
+      languages/technologies and from there I stumbled on C++, <br/> 
+      C’s object oriented superset. I took it on myself to learn <br/>
+      the language. A few weeks later, I discovered the GO language <br/> 
+      (or Golang), a more modern replica of C, which has extremely <br/> 
+      fast compile times, and is mainly used for back-end <br/> 
+      development. While learning Go, I wrote a program to calculate <br/> 
+      a student’s average score, determined by his marks, as well <br/>
+      as a program that serves as a calculator. I started learning <br/> 
+      TypeScript a few weeks after Go, and my developer experience <br/> 
+      has been greater than ever. TypeScript has great integrity <br/> 
+      as a typed javascript superset. It provides so much more <br/> 
+      functionality and features such as custom types, generics, <br/>
+      interfaces, subclasses, static type checking and many more. <br/>
       By using TypeScript i was able to create and re-create <br/>
       some of my front-end web applications.
       </p>
