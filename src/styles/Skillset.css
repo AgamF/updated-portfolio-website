@@ -7,10 +7,8 @@
 
 .skillset p {
   background: linear-gradient(to bottom, purple, magenta);
-  display: flex;
-  justify-content: center;
-  align-items: center;
   border-radius: 15px;
+  width: 800px;
 }
 
 .skillset div img {
