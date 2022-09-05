@@ -2,6 +2,7 @@ import wordcounter from '../images/wordcounter.png';
 import memegen from '../images/memegen.png';
 import scorecalc from '../images/scorecalc.png';
 import tirosh from '../images/tirosh.png';
+import passgen from "../images/passgen.png";
 
 export const projectData = [
   {
@@ -58,10 +59,10 @@ export const projectData = [
     link: 'https://tirosh.netlify.app/',
     key: '9'
   },
-//   {
-//     title: "Password Generator",
-//     src: "yes",
-//     link: "https://agamf-passgen.vercel.app/",
-//     key: "10"
-//   }
+  {
+    title: "Password Generator",
+    src: passgen,
+    link: "https://agamf-passgen.vercel.app/",
+    key: "10"
+  }
 ]
