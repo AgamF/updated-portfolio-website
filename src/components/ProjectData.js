@@ -57,5 +57,11 @@ export const projectData = [
     src: tirosh,
     link: 'https://tirosh.netlify.app/',
     key: '9'
-  }
+  },
+//   {
+//     title: "Password Generator",
+//     src: "yes",
+//     link: "https://agamf-passgen.vercel.app/",
+//     key: "10"
+//   }
 ]
