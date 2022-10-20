@@ -112,7 +112,7 @@ class App extends Component {
           <h1 style={headingStyles}>About me</h1>
           <div>
             <p className='animate__animated animate__fadeInUp' style={paragraphStyles}>Hello! My name is Agam, but i guess you figured that out already. <br/>
-              I'm a 17 year old self-taught full-stack web developer and i live in Israel. <br/>
+              I'm a 18 year old self-taught full-stack web developer and i live in Israel. <br/>
               My hobbies are coding & programming, especially in Python and Javascript. <br/>
               I've started web development well-over a year <br/>
               ago and general purpose programming + software engineering about half-a year ago. <br/>
