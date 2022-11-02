@@ -6,7 +6,6 @@ import Header from "../components/header";
 import ParticlesComponent from "../components/particles";
 import skillset from "../data/skillset.json";
 import Tilt from "react-tilt";
-import ReactFloaterJs from 'react-floaterjs'
 import icons from "../data/skillset-icons.json";
 import BackButton from "../components/backbutton";
 
@@ -20,9 +19,7 @@ export default function SkillsPage() {
         <div id="skillset-icons">
           {icons.map((icon) => (
             <Tilt key={icon}>
-              <ReactFloaterJs>
-                <img src={icon.source} width={icon.width} height={icon.height} />
-              </ReactFloaterJs>
+               <img src={icon.source} width={icon.width} height={icon.height} />
             </Tilt>
           ))}
         </div>
