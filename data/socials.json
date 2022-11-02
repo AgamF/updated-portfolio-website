@@ -1,0 +1,17 @@
+[
+  {
+    "src": "instagram.png",
+    "label": "Instagram",
+    "link": "https://www.instagram.com/agamfaraj/"
+  },
+  {
+    "src": "linkedin.png",
+    "label": "LinkedIn",
+    "link": "https://www.linkedin.com/in/agam-farajpur-64096423a/"
+  },
+  {
+    "src": "github.png",
+    "label": "Github",
+    "link": "https://github.com/AgamF"
+  }
+]

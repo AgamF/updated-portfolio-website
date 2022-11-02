@@ -1,0 +1,44 @@
+[
+  {
+    "label": "Codegrasp",
+    "img": "codegrasp.png",
+    "link": "https://codegrasp.vercel.app/",
+    "overview": "All your coding knowledge, brought together to a single website."
+  },
+  {
+    "label": "Agam's Meme Generator",
+    "img": "memegen.png",
+    "link": "https://agam-memes.netlify.app/",
+    "overview": "A simple Meme generator that fetches a random meme from the r/memes subreddit."
+  },
+  {
+    "label": "Word Counter",
+    "img": "wordcounter.png",
+    "link": "https://word-counter-rosy.vercel.app/",
+    "overview": "Counts the amount of words and characters in a phrase or text sample. Pretty useful for essays!"
+  },
+  {
+    "label": "Agam's Weight Converter",
+    "img": "weightconv.png",
+    "link": "https://weight-converter-liard.vercel.app/",
+    "overview": "Convert a given weight from Kilos to Pounds and vice versa."
+  },
+  {
+    "label": "Score Average Calculator",
+    "img": "gradecalc.png",
+    "link": "https://score-calculator.netlify.app/",
+    "overview": "Will calculate your score average given grades as input."
+  },
+  {
+    "label": "Background Gradient Generator",
+    "img": "bg.png",
+    "link": "https://hexcolorchanger.netlify.app/",
+    "overview": "Generate a simple gradient based on inputs you give to the web page."
+  },
+  {
+    "label": "Agam's Password Generator",
+    "img": "passgen.png",
+    "link": "https://agamf-passgen.vercel.app/",
+    "overview": "A simple website that generates a random password that includes numbers, letters and symbols."
+  }
+]
