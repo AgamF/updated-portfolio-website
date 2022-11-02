@@ -1,0 +1,28 @@
+{
+  "name": "portfolio-2.0",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.10.9",
+    "animate.css": "^4.1.1",
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-floaterjs": "^1.0.6",
+    "react-tilt": "^0.1.4",
+    "react-tsparticles": "^2.3.3",
+    "tsparticles": "^2.3.4"
+  },
+  "devDependencies": {
+    "eslint": "8.26.0",
+    "eslint-config-next": "12.3.1"
+  }
+}
