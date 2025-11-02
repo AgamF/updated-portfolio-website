@@ -52,7 +52,7 @@ My goal is to combine my development background with DevOps practices to help te
 
 ## 📫 Contact Me
 
-- 🌍 **Portfolio:** [YourWebsite.com](#)
-- 💼 **LinkedIn:** [linkedin.com/in/yourname](#)
-- 🐙 **GitHub:** [github.com/yourusername](#)
-- 📧 **Email:** your.email@example.com
+- 🌍 **Portfolio:** [agamfaraj.vercel.app](#)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/agam-farajpur-64096423a](#)
+- 🐙 **GitHub:** [github.com/AgamF/](#)
+- 📧 **Email:** agam123theking@gmail.com
