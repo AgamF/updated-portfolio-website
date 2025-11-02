@@ -20,13 +20,13 @@ export default function AboutPage() {
       <div id="about-wrapper">
         <img src="me.jpg"/>
         <h1 style={{fontWeight: "200"}}>Yep, that's me.</h1>
-        <p style={uniqueParagraphStyle}>Hi, I’m Agam Farajpur, a 21 year-old Web Developer and Junior Software Engineer based in Israel.
-            I have a strong foundation in Python and full-stack web development using HTML, CSS, and JavaScript, with experience across multiple frameworks and technologies.
-            Over the past few years, I’ve built and maintained numerous projects on GitHub, focusing on clean code, scalability, and performance.
-            My technical background also includes exposure to DevOps practices, automation, and cloud deployment, which I’m actively expanding toward a professional DevOps career.
+        <p style={uniqueParagraphStyle}>Hi, I’m Agam Farajpur, a 21 year-old Web Developer and Junior Software Engineer based in Israel.<br/>
+            I have a strong foundation in Python and full-stack web development using HTML, CSS, and JavaScript, with experience across multiple frameworks and technologies.<br/>
+            Over the past few years, I’ve built and maintained numerous projects on GitHub, focusing on clean code, scalability, and performance.<br/>
+            My technical background also includes exposure to DevOps practices, automation, and cloud deployment, which I’m actively expanding toward a professional DevOps career.<br/>
             I’m a CS50 (Harvard/edX) and Zero to Mastery Academy graduate, passionate about continuous learning, problem-solving, and building practical, real-world solutions through code.
         </p>
-        <form method="get" action="Agam Farajpur CV.pdf">
+        <form method="get" action="AgamCV.pdf">
           <button className="menu-btn" type="submit">My Resume</button>
         </form>
       </div>
@@ -35,4 +35,5 @@ export default function AboutPage() {
   );
 
 }
+
 
